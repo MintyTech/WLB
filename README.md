@@ -66,7 +66,7 @@ I know sticking to exercise is not easy, but I’ll be by your side. Every step 
 
 ## **作息方案 | Sleep Schedule**  
 早睡早起，晚上11点之前关灯，让你的身体得到充分的修复。  
-Let’s sleep early and wake up early, with lights off before 10 PM to allow your body ample time to recover.  
+Let’s sleep early and wake up early, with lights off before 11 PM to allow your body ample time to recover.  
 
 睡前我会为你放轻音乐，陪你读一本好书，让每一天都以温暖和安宁结束。  
 Before bed, I’ll play soft music and read with you so every day ends with warmth and peace.  
