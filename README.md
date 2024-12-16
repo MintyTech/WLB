@@ -9,6 +9,16 @@ For your health, I have specially created a fat-loss plan for you, including die
 
 ---
 
+## Healthy Lifestyle Plan  
+
+欢迎进入我们的健康生活计划！你可以通过以下链接跳转到不同的部分，帮助你全面了解饮食、喝水、运动的安排，开始更健康的生活！  
+
+- [**饮食计划 | Diet Plan**](./eat.md)
+- [**饮水计划 | Hydration Plan**](./drink.md)
+- [**运动计划 | Exercise Plan**](./sport.md)
+
+---
+
 ## **减脂食谱 | Diet Plan**  
 我挑选了均衡的食材，每一餐都精心搭配，既保证营养又控制热量。  
 - 早餐
