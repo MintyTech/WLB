@@ -1,5 +1,5 @@
-# 为了老婆杨呦呦的健康  
-## For My Wife Yang Youyou's Health  
+# 为了杨呦呦的健康  
+## For My Baby Yang Youyou's Health  
 
 ### 亲爱的呦呦：  
 ### My Dearest Youyou,  
@@ -114,6 +114,6 @@ I believe that if we stick to these plans together, we’ll welcome an even brig
 我们不仅要一起变得更健康，还要共同书写属于我们的精彩人生。  
 Not only will we become healthier, but we’ll also write a wonderful story of our shared life.  
 
-**爱你的老公**  
+**爱你的YF**  
 **Loving you always,**  
-**Your Husband**  
+**Your YF**  
