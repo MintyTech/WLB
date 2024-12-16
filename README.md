@@ -38,7 +38,7 @@ Once a week, I’ll surprise you with a "healthy treat," like avocado toast or l
 ---
 
 ## **饮水计划 | Hydration Plan**  
-每天为你准备四种健康饮品：  
+为你准备了多种健康饮品，一天的补水计划可以是：  
 - **早上**是温柠檬水，清新提神；  
 - **上午**是竹叶茶，排毒养颜；  
 - **下午**是菊花枸杞茶，清肝明目；  
