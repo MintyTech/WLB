@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>目录索引</title>
+    <style>
+        body {
+            font-family: "Microsoft Yahei", sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .list {
+            border: 1px solid #eee;
+            border-radius: 4px;
+            padding: 10px;
+        }
+        .item {
+            padding: 8px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #f5f5f5;
+        }
+        .item:hover {
+            background: #f8f9fa;
+        }
+        .item:last-child {
+            border-bottom: none;
+        }
+        .icon {
+            width: 24px;
+            margin-right: 10px;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>📁 文件目录列表</h1>
+    <div class="list">
+        <!-- 目录示例 -->
+        <div class="item">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAhAAAAIQBc7S1mQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFZSURBVEiJtZY9S8NQEIWfmyqCg4ODk4uLg4uDgyA4ODiIQ3+Ag4ODg4ODg4uDg4ODg4ODg4OgoIuDg4ODg4NfQkOjNk1ycXAtfUnPve+8c09uAq0tAe4BwB5wA5wBq8A0MAY8A7fAOXABfH6rEwE3wDaw0qD5PLAJXAKjqQHnwGZD8zpbA06BkTSAY2CvB/O67QOH3QJmgc0+mpdtCZjrBrDSh3HZloFcFmC2T+OyTQHjWYBR4C1Dg7d4nQqQy9DgPV6nAuQyNPiI16kAuQwNPuN1KsBbhgbv8ToV4DlDg+d4nQrwANxmaHALPGUBzoCLHswrtg8cZQEOgKMuzCu2DexkAQ6B3S7MK7YFbGUB3oH1hOZlWwNW0wC+7AI4SWhcthVgOQ3gyy6B7YTmZVsE5tMBvuwa2EgQoGwLwFw6wJfdAGsJApRtDphNB/iyW2A5QYCyzQDT6QBfdg8sJAhQtilgKh3gyx6B+QQByjYBjKcDfNkTMPeHABPAaDrAl70A038IMAl8AO+9A37sE5uQZ1Z3sujbAAAAAElFTkSuQmCC" class="icon">
+            <a href="subfolder/">示例文件夹/</a>
+        </div>
+        
+        <!-- 文件示例 -->
+        <div class="item">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAhAAAAIQBc7S1mQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAGkSURBVEiJtZY9S8NQFIWfW1BBFwcHFwcXBwcHQRwEBwcHcXAQB8HBwcHBwcHBwcHBwcHBwUFQ0MXBwcHBQRwcqk1rmqY3FxeHl5KX5J7zce99N6QmD4DkDnAOLAJTwDAwADwBd8AVcAnc/6sTAjfAFrDYoPkMsA5cAMN1ASfARkPzqq0Bp8BwHcARsNuDea9tD9ivA5gB1vo4r9oqsFwHMN+HcdUWgak6gCHgJUODl3idCpDL0OA1XqcC5DI0eI/XqQC5DA3e4nUqQC5Dg/d4nQqQy9DgPV6nAjxnaPAWr1MBHjM0eIzXqQB3wE2GBjfAfRbgHLjswbxih8BhFuAEOOrBvGJ7wG4W4B3YaGhetTVgJQ3gy66AzYTmZVsCltIAvuwG2EgQoGwLwHw6wJfdApsJApRtHphLB/iyO2AlQYCyTQOT6QBf9gDMJQhQtnFgLB3gy56B2T8EGAP6gbfeAT/2hU3IM6s7WfRtCz+0pVEAAAAASUVORK5CYII=" class="icon">
+            <a href="document.pdf">示例PDF文件.pdf</a>
+        </div>
+    </div>
+
+    <!-- 自动更新时间 -->
+    <script>
+        document.write('<p style="color:#666;font-size:0.9em;margin-top:15px;">最后更新: ' + 
+                       new Date().toLocaleString() + '</p>');
+    </script>
+</body>
+</html>
